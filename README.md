@@ -1,4 +1,4 @@
-### Hi there 👋  [![](https://visitcount.itsvg.in/api?id=naveen-kk4&icon=5&color=6)](https://visitcount.itsvg.in)
+### Hey there 👋  [![](https://visitcount.itsvg.in/api?id=naveen-kk4&icon=5&color=6)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently working on **Web Development, Java Full Stack Development**
 - 🌱 I’m currently learning **React JS**
