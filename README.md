@@ -10,8 +10,8 @@
 
 
 ## About Me:
-->I am a passionate undergrad Full Stack Web Developer currently pursuing my web development bootcamp at one of the top ed tech startups in India , Acciojob
-->Throughout my journey I have built multiple robust backend applications using Core Java,Spring Boot,JPA,Hibernate,MySQL etc .I also have a firm grip on frontend wherin I have built quite a lot of projects using HTML,CSS,Bootstrap,React and Redux
+->I am a passionate undergrad Full Stack Web Developer currently pursuing my web development bootcamp at one of the top ed tech startups in India , Acciojob</br>
+->Throughout my journey I have built multiple robust backend applications using Core Java,Spring Boot,JPA,Hibernate,MySQL etc .I also have a firm grip on frontend wherin I have built quite a lot of projects using HTML,CSS,Bootstrap,React and Redux</br>
 ->I love solving DSA questions and participating in coding contests and up solving is one of my favourite hobbies. I have solved over 2000 problems spread across variety of platforms like Acciojob,LeetCode,GFG,CodingNinjas,InterviewBit etc
 
 ## 🌐 Socials:
