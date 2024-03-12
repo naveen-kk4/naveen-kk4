@@ -6,7 +6,7 @@
 - 💬 Ask me about **Tech,Personal fitness,DSA**
 - 📫 How to reach me: **naveennig2001@gmail.com**
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: *I amm a developer by passion*
+- ⚡ Fun fact: *I am a developer by passion*
 
 
 ## About Me:
